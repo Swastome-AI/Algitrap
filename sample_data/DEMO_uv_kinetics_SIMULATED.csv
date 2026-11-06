@@ -1,0 +1,26 @@
+# SIMULATED DEMO DATA – replace with your own measurements
+time_h,temperature_C,oxidant,carbonyl_index,mass_remaining_pct
+0,25,No oxidant,0.0,99.603
+12,25,No oxidant,0.0817,99.252
+24,25,No oxidant,0.1679,98.349
+36,25,No oxidant,0.2133,97.33
+48,25,No oxidant,0.2798,97.359
+72,25,No oxidant,0.3605,95.254
+0,25,H2O2 10 mM,0.0,100.48
+12,25,H2O2 10 mM,0.1586,97.796
+24,25,H2O2 10 mM,0.2715,96.52
+36,25,H2O2 10 mM,0.3515,95.478
+48,25,H2O2 10 mM,0.4139,94.72
+72,25,H2O2 10 mM,0.5016,92.667
+0,35,No oxidant,0.0041,100.249
+12,35,No oxidant,0.0971,98.728
+24,35,No oxidant,0.1958,97.678
+36,35,No oxidant,0.2673,96.767
+48,35,No oxidant,0.3403,95.797
+72,35,No oxidant,0.4191,94.277
+0,35,H2O2 10 mM,0.0,99.593
+12,35,H2O2 10 mM,0.2078,97.397
+24,35,H2O2 10 mM,0.3524,96.104
+36,35,H2O2 10 mM,0.4096,94.478
+48,35,H2O2 10 mM,0.4769,93.196
+72,35,H2O2 10 mM,0.552,90.813

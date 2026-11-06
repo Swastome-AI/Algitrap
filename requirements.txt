@@ -1,0 +1,15 @@
+# Core (required)
+streamlit>=1.40
+plotly>=5.18,<7
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+reportlab>=4.0
+Pillow>=10.0
+
+# Strongly recommended – enables SMILES → 3-D (Tab 3) and the RDKit UFF/MMFF94 engines (Tab 5)
+rdkit>=2023.9
+
+# Optional – enables the OpenBabel UFF engine in Tab 5 (uncomment if your platform has wheels)
+# openbabel-wheel>=3.1

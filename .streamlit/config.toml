@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#0072B2"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6F9"
+textColor = "#000000"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
+maxMessageSize = 400
+
+[browser]
+gatherUsageStats = false
